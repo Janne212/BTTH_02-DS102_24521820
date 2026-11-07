@@ -19,7 +19,8 @@ Email: 24521820@gm.uit.edu.vn
 
 # Nội dung bài thực hành
 ## 1. Chuẩn bị dữ liệu với dữ liệu từ crawl từ BTTH 01
-Dữ liệu được lưu trong folder `data` với quy tắc lưu dữ liệu: tên folder là nhãn cho tất cả ảnh có trong folder
+Dữ liệu được lưu trong folder [data](https://drive.google.com/drive/folders/1ZOIBykFS9hQNXgOSL7cP2ZHCaZjgYEwL?usp=sharing)
+Quy tắc lưu dữ liệu: tên folder là nhãn cho tất cả ảnh có trong folder
 Dữ liệu bao gồm 3 folder chính, trong đó `train` và `test` được tạo ra khi chạy file `split_data.py`:
 1. Dữ liệu thô được cào từ BTTH 01: `raw`
 2. Dữ liệu train cho mô hình: `train`
